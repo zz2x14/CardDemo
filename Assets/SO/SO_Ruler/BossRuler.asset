@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c133d97f38ddfc5428bb6be4b6fdbbce, type: 3}
+  m_Name: BossRuler
+  m_EditorClassIdentifier: 
+  bossIncreasedRate_Enemy: 5
+  bossIncreasedRate_EliteEnemy: 7
+  bossIncreasedRate_NoBattle: 10
+  spaceStoneGet_Enemy: 1
+  spaceStoneGet_EliteEnemy: 2

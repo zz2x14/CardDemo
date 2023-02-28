@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e248003ad48dc04b83886ff7a93b0f0, type: 3}
+  m_Name: Test04
+  m_EditorClassIdentifier: 
+  cardId: 1
+  cardName: "\u6D4B\u8BD54"
+  cardCost: 1
+  canUse: 1
+  cardType: 1
+  workPattern: 2
+  cardIncidentalTypes: 
+  spareNum: 0
+  cardLevel: 2
+  cardOwner: 0
+  isUpgraded: 0
+  upgradedCard: {fileID: 0}
+  buffList: []
+  buffNumList: 
+  atkValue: 6
+  atkNum: 1

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8bf36d81fd00cc4caacd8c56f7cb5e2, type: 3}
+  m_Name: ShopRoomRuler
+  m_EditorClassIdentifier: 
+  cardGoodsLevelsInShop: 000000000100000002000000030000000400000005000000
+  treasureGoodsLevelsInShop: 000000000100000002000000
+  capsuleGoodsLevelsInShop: 000000000100000002000000
+  cCardGoodsNumInShop: 2
+  cPlusCardGoodsNumInShop: 2
+  bCardGoodsNumInShop: 2
+  bPlusCardGoodsNumInShop: 0
+  aCardGoodsNumInShop: 1
+  aPlusCardGoodsNumInShop: 0
+  cTreasureGoodsNumInShop: 2
+  bTreasureGoodsNumInShop: 1
+  aTreasureGoodsNumInShop: 0
+  cCapsuleGoodsNumInShop: 2
+  bCapsuleGoodsNumInShop: 1
+  aCapsuleGoodsNumInShop: 0
+  cCardMinPrice: 30
+  cCardMaxPrice: 45
+  cPlusCardNMinPrice: 40
+  cPlusCardNMaxPrice: 50
+  bCardMinPrice: 60
+  bCardMaxPrice: 75
+  aCardMinPrice: 85
+  aCardMaxPrice: 105
+  cCardMinSellPrice: 10
+  cCardMaxSellPrice: 15
+  cPlusCardMinSellPrice: 15
+  cPlusCardMaxSellPrice: 20
+  bCardMinSellPrice: 20
+  bCardMaxSellPrice: 35
+  bPlusCardMinSellPrice: 35
+  bPlusCardMaxSellPrice: 40
+  aCardMinSellPrice: 45
+  aCardMaxSellPrice: 55
+  aPlusCardMinSellPrice: 55
+  aPlusCardMaxSellPrice: 65
+  cTreasureMinPrice: 130
+  cTreasureMaxPrice: 150
+  bTreasureMinPrice: 170
+  bTreasureMaxPrice: 200
+  cTreasureMinSellPrice: 50
+  cTreasureMaxSellPrice: 65
+  bTreasureMinSellPrice: 70
+  bTreasureMaxSellPrice: 90
+  aTreasureMinSellPrice: 120
+  aTreasureMaxSellPrice: 140
+  cCapsuleMinPrice: 18
+  cCapsuleMaxPrice: 25
+  bCapsuleMinPrice: 22
+  bCapsuleMaxPrice: 28
+  cCapsuleMinSellPrice: 8
+  cCapsuleMaxSellPrice: 12
+  bCapsuleMinSellPrice: 12
+  bCapsuleMaxSellPrice: 18
+  aCapsuleMinSellPrice: 18
+  aCapsuleMaxSellPrice: 25

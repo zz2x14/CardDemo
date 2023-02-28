@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fef1e842f6c734aa4bf65d99330ed9, type: 3}
+  m_Name: EB_Soldier_Attack01
+  m_EditorClassIdentifier: 
+  enemyBehaviorType: 1
+  enemyBehaviorRange: 1
+  minAtkValue: 6
+  maxAtkValue: 8
+  atkNum: 1
+  isRandomAtk: 0
+  buffList: []
+  buffNumList: 

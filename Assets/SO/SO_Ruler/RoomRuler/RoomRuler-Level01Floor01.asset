@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced1765b47f5a224eaf6e162737fcb76, type: 3}
+  m_Name: RoomRuler-Level01Floor01
+  m_EditorClassIdentifier: 
+  levelNum: 1
+  floorBegin: 1
+  floorEnd: 1
+  roomFloorType: 0
+  enemyBattaleRate: 100
+  eliteEnemyBattaleRate: 0
+  shopRate: 0
+  randomEvenetRate: 0
+  restRate: 0
+  tearsureRate: 0
+  spacetimeStoneShopRate: 0
+  levelCRate: 100
+  levelBRate: 0
+  levelARate: 0
